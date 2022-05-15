@@ -4,7 +4,6 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Breno Henrique Silva Carvalho
-* Camilla Yasmin Rezende Goulart
 * Gustavo Costa Pereira
 * Gustavo Lara Marçal
 * Júlia Claudino Miranda
